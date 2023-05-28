@@ -4,7 +4,7 @@
 - 📫 Contrate-me via email: Viniciustronfara@hotmail.com
 - 😄 Ele/dele
 
-<img src="https://media.giphy.com/media/IxlnMFrOLVNp6/giphy.gif" width="160" align="right" > 
+<img src="https://media.giphy.com/media/weRCY5kig70MGlY0yv/giphy.gif" width="160" align="right" > 
 <ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinishinayder&show_icons=true&theme=dracula)
